@@ -24,8 +24,7 @@ class Main
             trace(maVar);
         }
 
+        varFunc('test fonction');
         funcParam(varFunc);
     }
 }
-
-        //varFunc('test fonction');
