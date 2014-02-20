@@ -3,7 +3,7 @@ Haxe
 
 Exemples de code Haxe issus de la présentation des JeUXDiCode
 
-(Lien vers le diaporama à venir)
+[Récupérer le diaporama](http://www.slideshare.net/AxelAnceau/french-discover-haxe-31457227)
 
 Liens
 --------------
